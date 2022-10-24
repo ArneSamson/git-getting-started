@@ -5,6 +5,8 @@ function doSomething(){
 
 function doSomethingElse(){
     console.log("ok");
+    console.log("haha");
 }
 
 doSomething();
+
