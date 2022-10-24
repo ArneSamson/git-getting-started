@@ -1,5 +1,10 @@
-function someCode(){
+function doSomething(){
     console.log("hey");
+    doSomethingElse();
 }
 
-someCode();
+function doSomethingElse(){
+    console.log("ok");
+}
+
+doSomething();
