@@ -1,5 +1,5 @@
 function doSomething(){
-    console.log("hey");
+    
     doSomethingElse();
 }
 
@@ -9,4 +9,4 @@ function doSomethingElse(){
 }
 
 doSomething();
-
+console.log("hey");
